@@ -10,3 +10,5 @@
 - 📫 How to reach me: recruityuvraj@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Computer screen is what i looka at 60% time of a day.
+
+<img src="https://github-readme-stats.vercel.app/api?username=y4yuvraj&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
