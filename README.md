@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Maven, Spring, AWS, Microservices
 - 🌱 I’m currently learning AWS
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m doingernships
+- 🤔 I’m fulltime
 - 💬 Ask me about Machine Learning, Data Science, Full Stack Java
 - 📫 How to reach me: recruityuvraj@gmail.com
 - 😄 Pronouns: He/His
