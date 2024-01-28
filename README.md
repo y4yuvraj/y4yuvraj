@@ -8,8 +8,6 @@
 - 🤔 I’m fulltime
 - 💬 Ask me about Full Stack Java using Spring Framework
 - 📫 How to reach me: recruityuvraj@gmail.com
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: Computer screen is what i looka at 60% time of a day.
 
 ### Languages and Tools:
 
